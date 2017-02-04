@@ -17,6 +17,5 @@ You can customize the UI to your liking _(e.g camouflage workspace with the colo
 ### How to Install
 
 #### Install:
-1. [Download the latest release .zip](https://github.com/arvi/Agila-Theme/releases)
-2. Unzip and rename folder to *`Agila Theme`*.
-3. Move *`Agila Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)
+1. Download the source
+2. Move the folder inside the Packages directory (*`Preferences > Browse packages...`*)
